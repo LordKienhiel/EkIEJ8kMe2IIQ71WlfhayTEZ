@@ -1,6 +1,5 @@
 {
   "data": [
-    "www",
+	{"url": "http://school5.beluo.ru/", "count": 10}
   ]
-  "requests": 1000
 }
